@@ -1,6 +1,6 @@
 import './style.css';
 import Icon from './image/icon.png';
-import arrow from './image/arrow.png'; 
+import arrow from './image/arrow.png';
 import more from './image/more.png';
 
 const icon1 = document.querySelector('#icon');
