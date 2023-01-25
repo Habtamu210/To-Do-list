@@ -182,7 +182,7 @@ input:checked ~ .bubble::after {
 
 .todo-item .actions img {
   width: 20px;
-  height: 20px;
+  height: 19px;
 }
 
 .todo-item.done .todo-content input {
