@@ -2,30 +2,25 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ToDo_list</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Lato&family=Poppins:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/e746991a9e.js" crossorigin="anonymous"></script>
+    <title>To Do List</title>
 </head>
 <body>
-  <main class="main">
-    <section class="todo-main">
-      <h1 class="tittle">To Do List</h1>
-      <img id="icon"class ="imagwh" alt="restart todo" >
-    </section>
-    <section class="create-to">
-      <form id="form-todo">
-        <input type="text" name="content" id="content" placeholder="Add to your list..." aria-label="content" required>
-        <button type="submit"><img id="arrowimg" src="image/arrow.png" alt="Add task - arrow icon" ></button>
-      </form>
-    </section>
-    <section class="todo-li">
-      <div class="list" id="todo-list">
-      </div>
-      <button type="button" class="clear">Clear all completed</button>
-    </section>
-  </main> 
+    <main>
+        <div class="head">
+            <h1>Today's To Do List</h1>
+        </div>
+        <form class="form">
+            <input type="text" placeholder="Add to list...">
+            <button type="submit">
+                <i class="fa-solid fa-arrows-rotate"></i>
+            </button>
+        </form>
+        <div class="list"></div>
+        <div class="come">
+            <button id="clear"> clear all completed </button>
+        </div>
+    </main>
 </body>
 </html>
