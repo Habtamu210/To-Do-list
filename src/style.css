@@ -181,7 +181,7 @@ input:checked ~ .bubble::after {
 }
 
 .todo-item .actions img {
-  width: 20px;
+  width: 21px;
   height: 20px;
 }
 
