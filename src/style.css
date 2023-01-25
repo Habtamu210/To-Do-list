@@ -19,6 +19,10 @@ main {
   background-color: rgb(220 229 230);
 }
 
+.head {
+  border-radius: 2px solid;
+}
+
 .head,
 form,
 .each {
@@ -30,6 +34,7 @@ head h1 {
   color: whitesmoke;
   font-size: 15px;
   font-family: 'Times New Roman', Times, serif;
+  
 }
 
 form {
