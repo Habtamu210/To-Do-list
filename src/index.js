@@ -1,8 +1,8 @@
 import './style.css';
-import Tasks from './module/task.js';
-import editTask from './module/listedit.js';
-import clearCompletedTasks from './module/listclear.js';
-import updateTaskStatus from './module/display.js';
+import Tasks from './modules/Task.js';
+import editTask from './modules/listEdit.js';
+import clearCompletedTasks from './modules/listClear.js';
+import updateTaskStatus from './modules/display.js';
 
 const displayContainer = document.getElementById('do-list');
 
