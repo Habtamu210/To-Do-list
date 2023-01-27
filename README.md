@@ -37,8 +37,6 @@
 
 # 📖 To-Do List <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **To-Do List** is a simple TODO list application created using webpack
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -56,8 +54,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **Using Webpack for project developement**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -65,8 +61,6 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://habtamu210.github.io/To-do-list/)
 
@@ -144,8 +138,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Habtamu Birru**
 
 -- GitHub: [@Habtamu210](https://github.com/Habtamu210)
@@ -157,8 +149,6 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[new_feature_1]**
 - [ ] **[new_feature_2]**
@@ -180,8 +170,6 @@ Feel free to check the [issues page](https://github.com/Habtamu210/To-do-list/is
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project, please provide a STAR in
 [Github project repository](https://github.com/Habtamu210/To-do-list)
 
@@ -191,15 +179,11 @@ If you like this project, please provide a STAR in
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
 
