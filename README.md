@@ -140,7 +140,7 @@ Example:
 
 👤 **Habtamu Birru**
 
--- GitHub: [@Habtamu210](https://github.com/Habtamu210)
+- GitHub: [@Habtamu210](https://github.com/Habtamu210)
 - Twitter: [@beleyaha](https://twitter.com/beleyaha)
 - LinkedIn: [Habtamu Birru](https://linkedin.com/in/habtamu-birru-4187ab20/)
 
