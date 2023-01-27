@@ -1,5 +1,5 @@
 import updateLocalStorage from './storage.js';
-import display from './item.js';
+import display from './showItem.js';
 import checker from './checker.js';
 import MOR from './reload.js';
 
