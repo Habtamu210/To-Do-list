@@ -131,4 +131,6 @@ form i {
   display: block;
 }
 
-
+.line {
+  text-decoration: line-through;
+}
