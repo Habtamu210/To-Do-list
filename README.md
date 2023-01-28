@@ -151,8 +151,8 @@ Example:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Add a new task]**
-- [ ] **[Mark task as completer or not complated]**
-- [ ] **[Delete complated tasks]**
+- [ ] **[Mark task as complete or not completed]**
+- [ ] **[Delete completed tasks]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
